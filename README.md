@@ -8,9 +8,9 @@
 ---
 
 ### 🛠 Tech Stack & Methoden
-- **Datenanalyse & Programmierung:** Python (Pandas, NumPy), SQL (MySQL), Excel, VBA
-- **BI & Visualisierung:** Power BI, Tableau, PowerPoint
-- **Analytische Methoden:** Data Cleaning, Exploratory Data Analysis (EDA), KPI-Reporting, A/B-Testing, Prozessautomatisierung
+- **Daten & Analyse:** Python (Pandas, NumPy, Plotly, Seaborn, Matplotlib, Scikit-learn, Statsmodels, PySpark), SQL (MySQL), Statistische Methoden & A/B-Testing, Excel (Fortgeschritten, VBA)
+- **BI & Visualisierung:** Power BI (DAX, Power Query), Tableau, PowerPoint
+- **Weitere Tools & Prozesse:** MongoDB, Git/GitHub, ETL-Prozesse, ERP- & CRM-Systeme, MS Office
 
 ---
 
