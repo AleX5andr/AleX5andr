@@ -21,6 +21,5 @@
 ---
 
 ### 📫 Kontakt / Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
-- **LinkedIn:** [Olekasndr_Muntian](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
+- **LinkedIn:** [Olekasndr Muntian](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
 - **E-Mail:** Aleks0209@gmail.com
