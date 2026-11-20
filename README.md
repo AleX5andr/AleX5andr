@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack & Methoden
-- **Daten & Analyse:** Python (Pandas, NumPy, Plotly, Seaborn, Matplotlib, Scikit-learn, Statsmodels, PySpark), SQL (MySQL), Statistische Methoden & A/B-Testing, Excel (Fortgeschritten, VBA)
+- **Daten & Analyse:** Python (Pandas, NumPy, Plotly, Seaborn, Matplotlib, Scikit-learn, Statsmodels, PySpark), SQL, Statistische Methoden & A/B-Testing, Excel (Fortgeschritten, VBA)
 - **BI & Visualisierung:** Power BI (DAX, Power Query), Tableau, PowerPoint
 - **Weitere Tools & Prozesse:** MongoDB, Git/GitHub, ETL-Prozesse, ERP- & CRM-Systeme, MS Office
 
