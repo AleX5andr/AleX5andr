@@ -21,5 +21,5 @@
 ---
 
 ### 📫 Kontakt / Connect with me
-- **LinkedIn:** [linkedin.com/in/oleksandr-muntian-6762692b1](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
+- **LinkedIn:** [linkedin.com/oleksandr-muntian](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
 - **E-Mail:** Aleks0209@gmail.com
