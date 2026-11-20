@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hallo, ich bin Oleksandr Muntian 👋 | Hi, I'm Oleksandr Muntian
+**Data Analyst & Business Analyst | Hamburg, Deutschland**
 
-<!--
-**AleX5andr/AleX5andr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇩🇪 Ich verbinde langjährige Praxiserfahrung im Einzelhandel, E-Commerce und der Geschäftsprozessoptimierung (Excel & VBA) mit modernen Methoden der Datenanalyse (Python, SQL, Power BI, Tableau), um datenbasierte Geschäftsentscheidungen zu unterstützen.
 
-Here are some ideas to get you started:
+🇬🇧 I combine hands-on experience in retail, e-commerce, and business process optimization (Excel & VBA) with modern data analytics tools (Python, SQL, Power BI, Tableau) to turn raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Methoden
+- **Datenanalyse & Programmierung:** Python (Pandas, NumPy), SQL (MySQL), Excel, VBA
+- **BI & Visualisierung:** Power BI, Tableau, PowerPoint
+- **Analytische Methoden:** Data Cleaning, Exploratory Data Analysis (EDA), KPI-Reporting, A/B-Testing, Prozessautomatisierung
+
+---
+
+### 📌 Ausgewählte Projekte / Featured Projects
+- **[ICH_Final_project](https://github.com/AleX5andr/ICH_Final_project)** — Datenbereinigung und umfassende Analyse von CRM-Daten einer Online-Programmierschule mit Python zur Steigerung der Marketing- und Vertriebseffizienz.
+- **[interactive_movie_search](https://github.com/AleX5andr/interactive_movie_search)** — Interaktive Python-Anwendung zur Suche, Filterung und Verarbeitung von Filmdaten.
+
+---
+
+### 📫 Kontakt / Connect with me
+- **LinkedIn:** [linkedin.com/in/oleksandr-muntian-6762692b1](https://www.linkedin.com/in/oleksandr-muntian-6762692b1/)
+- **E-Mail:** Aleks0209@gmail.com
