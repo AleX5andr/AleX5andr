@@ -15,8 +15,8 @@
 ---
 
 ### 📌 Ausgewählte Projekte / Featured Projects
-- **[ICH_Final_project](https://github.com/AleX5andr/ICH_Final_project)** — Datenbereinigung und umfassende Analyse von CRM-Daten einer Online-Programmierschule mit Python zur Steigerung der Marketing- und Vertriebseffizienz.
-- **[interactive_movie_search](https://github.com/AleX5andr/interactive_movie_search)** — Interaktive Python-Anwendung zur Suche, Filterung und Verarbeitung von Filmdaten.
+- **[edtech-crm-sales-analytics](https://github.com/AleX5andr/edtech-crm-sales-analytics)** — Datenbereinigung und umfassende Analyse von CRM-Daten einer Online-Programmierschule mit Python zur Steigerung der Marketing- und Vertriebseffizienz.
+- **[interactive-movie-search](https://github.com/AleX5andr/interactive-movie-search)** — Interaktive Python-Anwendung zur Suche, Filterung und Verarbeitung von Filmdaten.
 
 ---
 
